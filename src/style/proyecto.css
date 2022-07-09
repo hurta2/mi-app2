@@ -1,0 +1,190 @@
+a {
+  text-decoration: underline;
+  color: blue;
+}
+.contenedor-proyecto h2 {
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 20px;
+  margin-left: 70px;
+}
+
+.contenedor-proyecto {
+  width: 1270px;
+  height: 650px;
+  font-family: roboto, sans-serif;
+  font-weight: bold;
+  margin-top: 102px;
+  margin-left: 40px;
+  background-color: rgb(231, 228, 228);
+}
+
+.primera-noticia {
+  width: 520px;
+  height: 240px;
+  margin-left: 30px;
+  margin-top: 20px;
+  background: rgb(175, 173, 173);
+  border-radius: 20px;
+  padding-left: 10px;
+}
+
+.primera {
+  display: inline;
+  width: 200px;
+  height: 140px;
+  margin-top: 50px;
+  margin-left: 15px;
+}
+
+.texto-primero {
+  color: black;
+  display: flex;
+  width: 260px;
+  height: 80px;
+  float: right;
+  margin-left: 0;
+  margin-right: 20px;
+  margin-top: 65px;
+  padding: 5px;
+  align-items: center;
+  justify-content: center;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.link-peliculas {
+  display: flex;
+  font-size: 17px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 235px;
+  margin-top: -30px;
+}
+
+.segunda-noticia {
+  width: 520px;
+  height: 240px;
+  background: rgb(175, 173, 173);
+  border-radius: 20px;
+  padding-left: 10px;
+  margin-top: 40px;
+  margin-left: 30px;
+}
+
+.segunda {
+  display: inline;
+  width: 200px;
+  height: 140px;
+  margin-left: 15px;
+  margin-top: 50px;
+}
+
+.texto-segundo {
+  color: black;
+  display: flex;
+  width: 260px;
+  height: 80px;
+  float: right;
+  margin-left: 0;
+  margin-right: 20px;
+  margin-top: 65px;
+  padding: 5px;
+  align-items: center;
+  justify-content: center;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.link-noticias {
+  display: flex;
+  font-size: 17px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 235px;
+  margin-top: -30px;
+}
+
+.tercera-noticia {
+  width: 520px;
+  height: 240px;
+  background: rgb(175, 173, 173);
+  border-radius: 20px;
+  padding-left: 10px;
+  margin-left: 680px;
+  margin-top: -518px;
+}
+
+.tercera {
+  display: inline;
+  width: 120px;
+  height: 200px;
+  border-radius: 10px;
+  margin-top: -135px;
+  margin-left: 15px;
+}
+
+.texto-tercero {
+  color: black;
+  display: flex;
+  width: 260px;
+  height: 80px;
+  float: right;
+  margin-left: 0;
+  margin-right: 80px;
+  margin-top: -370px;
+  padding: 5px;
+  align-items: center;
+  justify-content: center;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.link-calculadora {
+  display: flex;
+  font-size: 17px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 175px;
+  margin-top: -40px;
+}
+
+.cuarta-noticia {
+  width: 520px;
+  height: 240px;
+  background: rgb(175, 173, 173);
+  border-radius: 20px;
+  padding-left: 10px;
+  margin-left: 680px;
+  margin-top: 40px;
+}
+
+.cuarta {
+  display: inline;
+  width: 200px;
+  height: 120px;
+  margin-left: 15px;
+  margin-top: -100px;
+}
+
+.texto-cuarto {
+  color: black;
+  display: flex;
+  width: 260px;
+  height: 80px;
+  float: right;
+  margin-left: 0;
+  margin-right: 20px;
+  margin-top: -95px;
+  padding: 5px;
+  align-items: center;
+  justify-content: center;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.link-juego {
+  display: flex;
+  font-size: 17px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 235px;
+  margin-top: -10px;
+}
