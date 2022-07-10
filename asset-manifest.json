@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mi-app2/static/css/main.48a5d11d.css",
+    "main.js": "/mi-app2/static/js/main.90e1bdb6.js",
+    "static/media/36833.jpg": "/mi-app2/static/media/36833.aa6b25a8ed3e9fce8414.jpg",
+    "static/media/carrete.jpg": "/mi-app2/static/media/carrete.12ddcc1f12626e9a2421.jpg",
+    "static/media/endy2.jpg": "/mi-app2/static/media/endy2.9816556e9880dcab46de.jpg",
+    "static/media/noticias.jpg": "/mi-app2/static/media/noticias.36d1d7a02187deff52d2.jpg",
+    "static/media/juego.jpg": "/mi-app2/static/media/juego.9641e9e96a284e97064c.jpg",
+    "static/media/calculadora.jpg": "/mi-app2/static/media/calculadora.c98ce4321ecbd675e9ea.jpg",
+    "index.html": "/mi-app2/index.html",
+    "main.48a5d11d.css.map": "/mi-app2/static/css/main.48a5d11d.css.map",
+    "main.90e1bdb6.js.map": "/mi-app2/static/js/main.90e1bdb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48a5d11d.css",
+    "static/js/main.90e1bdb6.js"
+  ]
+}
