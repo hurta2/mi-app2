@@ -188,3 +188,109 @@ a {
   margin-left: 235px;
   margin-top: -10px;
 }
+
+@media only screen and (max-width: 400px) {
+  .contenedor-proyecto {
+    margin-top: 70px;
+    margin-left: 10px;
+    width: 360px;
+    height: 1800px;
+  }
+
+  .contenedor-proyecto h2 {
+    margin-left: 20px;
+  }
+
+  .primera-noticia {
+    width: 340px;
+    height: 400px;
+    margin-left: 5px;
+  }
+
+  .primera {
+    margin-top: 60px;
+    margin-left: 65px;
+  }
+
+  .texto-primero {
+    width: 300px;
+    margin-top: 15px;
+  }
+
+  .link-peliculas {
+    margin-top: 100px;
+    margin-left: 50px;
+  }
+
+  .segunda-noticia {
+    width: 340px;
+    height: 400px;
+    margin-left: 5px;
+  }
+
+  .segunda {
+    margin-top: 60px;
+    margin-left: 65px;
+  }
+
+  .texto-segundo {
+    width: 300px;
+    margin-top: 15px;
+  }
+
+  .link-noticias {
+    margin-top: 100px;
+    margin-left: 50px;
+  }
+
+  .tercera-noticia {
+    margin-left: 5px;
+    margin-top: 40px;
+    width: 340px;
+    height: 400px;
+  }
+
+  .tercera {
+    margin-top: 20px;
+    margin-left: 100px;
+  }
+
+ .texto-tercero {
+    margin-top: 20px;
+    margin-left: 10px; 
+    float: none;
+    width: 300px;
+ }
+
+  .link-calculadora {
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  .cuarta-noticia {
+    width: 340px;
+    height: 400px;
+    margin-top: 40px;
+    margin-left: 5px;
+  }
+
+  .cuarta {
+    margin-top: 60px;
+    margin-left: 60px;
+  }
+
+  .texto-cuarto {
+    display: flex;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: -20px;
+  }
+
+  .link-juego {
+    margin-top: 150px;
+    float: none;
+    justify-content: center;
+    margin-left: -20px;
+  }
+
+}
