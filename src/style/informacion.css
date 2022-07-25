@@ -56,7 +56,7 @@ li {
     margin-top: 50px;
 }
 
-@media only screen and (max-width: 400px) {
+@media screen and (max-width: 400px) {
  .contenedor-informacion {
     width: 200px;
     height: 900px;
